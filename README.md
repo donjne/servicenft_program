@@ -34,11 +34,11 @@ Ensure you have the following tools installed:
 
 ### Clone the Repository
 
-Clone the repository containing the `hello_anchor` program:
+Clone the repository containing the `marketplace` program:
 
 ```shell
 git clone https://github.com/donjne/servicenft_program.git
-cd hello_anchor
+cd marketplace
 ```
 
 ### Build the Project
